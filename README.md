@@ -1,4 +1,4 @@
-# Gas Station Investment Analysis — Full Project Finance Model
+# Gas Station Investment Analysis - Full model with debt
 
 ## Overview
 This repository contains a Python-based project finance model for a greenfield gas station in Saint Petersburg.
