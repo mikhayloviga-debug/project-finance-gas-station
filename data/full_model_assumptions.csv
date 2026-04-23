@@ -1,0 +1,2 @@
+key_rate,retail_price_rub_per_liter,discount_rate,capex_rub,daily_volume_liters,margin_rub_per_liter,annual_opex_rub,project_years,debt_share,debt_rate,debt_years,tax_rate,inflation_rate,revenue_growth_rate,capex_contingency_share,maintenance_capex_share_of_revenue,working_capital_days_of_revenue,salvage_value_share_of_capex
+0.15,69.88,0.18,18000000,3000,8.0,6000000,10,0.7,0.2,5,0.2,0.06,0.03,0.05,0.005,7,0.1

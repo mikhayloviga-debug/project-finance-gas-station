@@ -1,0 +1,9 @@
+parameter,date,value,source_or_logic,type
+Bank of Russia key rate,2026-04-23,15.00%,https://www.cbr.ru/hd_base/keyrate/,Market data
+SPb AI-95 retail range,2026-04-20,68.06-71.70 RUB/l,https://www.rosstat.gov.ru/central-news/document/282054,Market data
+SPb AI-95 midpoint used in model,2026-04-20,69.88,Derived from Rosstat range,Model input
+Discount rate used in model,2026-04-23,18.00%,15% key rate + 3 p.p. project premium,Model assumption
+Daily throughput,n/a,3000,User / model assumption,Model assumption
+Gross margin per liter,n/a,8.0,Model assumption,Model assumption
+Annual opex,n/a,6000000,Model assumption,Model assumption
+Capex,n/a,18000000,User / model assumption,Model assumption
